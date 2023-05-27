@@ -24,7 +24,7 @@ The АРI service that will allow:
     ```
 
 ## Run in Docker:
-1. Create .env file inside [GSES3_BTC_application](./GSES3_BTC_application) folder
+1. Create .env file inside **"GSES3_BTC_application"** folder
 2. Specify necesary variables in **".env"** file
     ```
     EMAIL="<your-google-account>"
