@@ -48,9 +48,9 @@ Method **Get**:
 
 Method **POST**:
 
-2. *"/subscribe"* - sign an email to receive information on changing the course.
+1. *"/subscribe"* - sign an email to receive information on changing the course.
 You need to sent request with "x-www-form-urlencoded" payload:
     ```
     email: <email-for-subscribing>
     ```
-3. *"/sendEmails"* - send the current course to all subscribed users.
+2. *"/sendEmails"* - send the current course to all subscribed users.
